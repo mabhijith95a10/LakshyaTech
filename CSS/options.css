@@ -1,9 +1,9 @@
 body{
-    background-color: #2b2b2b; //#585858 #67BCDB
+    background-color: #2b2b2b;
 }
 div.left {
-    height: 600px;
-    width: 400px;
+    height: 97.580645161290322580645161290323%;
+    width: 30.823529411764705882352941176471%;
     background-color:;
     position: fixed;
 }
@@ -12,7 +12,7 @@ ul{
     font-family: Verdana, sans-serif;
     font-size: 50px;
     position: absolute;
-    top: 220px;
+    top: 31.451612903225806451612903225806%;
     color:white;   
 }
 ul.options a{
@@ -67,28 +67,27 @@ li.blogs1{
     color: #2b2b2b;
 }
 div.middle{
-    height: 600px;
-    width: 695px;
+    height: 97.580645161290322580645161290323%;
+    width: 55.118110236220472440944881889764%;
     background-color:white;
-    position: relative;
-    top:0px;
-    left: 405px;
+    position: fixed;
+    left: 31.372549019607843137254901960784%;
 }
 div.right{
-    width: 175px;
+    width: 13.385826771653543307086614173228%;
+    height: 97.580645161290322580645161290323%;
     background-color: ;
     position: fixed;
     top: 8px;
-    left: 1105px;
-    height: 600px;
+    left: 86.6%;
 }
 p{
     color: white;
     position: absolute;
-    top: 530px;
+    top: 85.483870967741935483870967741935%;
     font-size: 30px;
     font-family: cursive;
-    right: 10px;
+    right: 5.882352941176470588235294117647%;
 }
 p.club{
     color: white;
@@ -101,7 +100,7 @@ p.club{
 div.line{
     height: 10px;
     position: relative;
-    top: 96.5%;
+    top: 91.5%;
     width: 84%;
     left:8%;
     background-color: white
@@ -112,9 +111,9 @@ ul.connect{
     margin: 0;
     list-style-type: none;
     position: relative;
-    top: 97%;
+    top: 93%;
     width: 75%;
-    left:12.5px; 
+    left: 1%; 
     text-align: center;
 }
 li.v{
@@ -131,13 +130,13 @@ p.middle{
     color: black;
     font-size: 16pt;
     background-color: white;
-    width: 660px;
+    width: 665px;
     padding: 20px;
     left: 0px;
-    top:300px
+    top:280px
     
 }
 img.books{
-    width: inherit;
+    width: 705px;
     height: 300px
 }
